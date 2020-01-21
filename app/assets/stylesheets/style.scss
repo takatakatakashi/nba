@@ -1,0 +1,24 @@
+.body{
+  background-image: url("sora.image.jpg");
+  background-size: cover;
+  
+  .header{
+    font-size: 30px;
+    padding: 50px;
+  }
+
+  .content_post{
+    height: 550px;
+    width: 550px;
+    color: #fff;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 3px;
+    margin: 50px;
+  }
+
+  .user_nav.grid-6{
+    font-size: 20px;
+  }
+
+}
